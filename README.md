@@ -1,5 +1,5 @@
 # taller5g-unidad3-barrios-monges
-# AREA PRÁCTICA · UNIDAD III
+# Tarea unidad III
 Conversión por rastreo
 Implementación y extensión de los algoritmos DDA y Bresenham
 
