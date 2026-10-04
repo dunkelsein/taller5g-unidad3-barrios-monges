@@ -1,6 +1,6 @@
 # taller5g-unidad3-barrios-monges
 # Tarea unidad III
-Conversión por rastreo
+Conversión por rastreo--
 Implementación y extensión de los algoritmos DDA y Bresenham
 
 * **Materia:** Taller de Programación de 5.ª Generación I
